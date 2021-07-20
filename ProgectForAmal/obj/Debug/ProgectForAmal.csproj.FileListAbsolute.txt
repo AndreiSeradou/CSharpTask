@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\ProgectForAmal\ProgectForAmal\bin\Debug\ProgectForAmal.exe.config
+C:\Users\Lenovo\source\repos\ProgectForAmal\ProgectForAmal\bin\Debug\ProgectForAmal.exe
+C:\Users\Lenovo\source\repos\ProgectForAmal\ProgectForAmal\bin\Debug\ProgectForAmal.pdb
+C:\Users\Lenovo\source\repos\ProgectForAmal\ProgectForAmal\obj\Debug\ProgectForAmal.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\ProgectForAmal\ProgectForAmal\obj\Debug\ProgectForAmal.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ProgectForAmal\ProgectForAmal\obj\Debug\ProgectForAmal.exe
+C:\Users\Lenovo\source\repos\ProgectForAmal\ProgectForAmal\obj\Debug\ProgectForAmal.pdb
