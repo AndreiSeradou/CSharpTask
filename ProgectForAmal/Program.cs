@@ -10,9 +10,7 @@ namespace ProgectForAmal
     {
         static void Main(string[] args)
         {
-            decimal a ;
-            Console.WriteLine(a);
-            Console.ReadKey();
+            
         }
     }
 }

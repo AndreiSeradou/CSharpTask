@@ -22,7 +22,7 @@ namespace ProgectForAmal
         public int ConvertFloatToInt(float val)
         {
             return Convert.ToInt32(val);
-        }   
+        } 
 
         public string ConvertFloatToString(float val)
         {
